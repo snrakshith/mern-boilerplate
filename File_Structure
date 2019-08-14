@@ -1,0 +1,26 @@
+client/
+    - public/
+        - assets/
+            - images
+        - index.html
+        - index.css
+    - src/
+        - apis/ 
+        - components/
+        - actions/
+        - reduces/
+        - index.js
+    - tests/
+
+server/  
+    - config/
+    - middleware/
+    - services/
+    - routes/
+    - models/
+    - tests/
+    - index.js
+
+.gitignore
+README.md
+
