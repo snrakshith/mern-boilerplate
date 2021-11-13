@@ -1,6 +1,4 @@
-# Full Stack MERN
-
-## MERN Full Stack Boilerplate for a quick prototyping..
+# MERN Stack Boilerplate for a Quick Prototyping
 
 ```
 1. client
