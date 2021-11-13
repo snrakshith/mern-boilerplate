@@ -1,0 +1,1 @@
+Contains any web translations files

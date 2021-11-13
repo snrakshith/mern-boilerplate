@@ -1,0 +1,43 @@
+/* Fonts Usage */
+@import "./configFonts.css";
+
+.title-lg {
+  font-size: 60px;
+  font-family: "Nunito";
+  font-weight: lighter;
+  line-height: 65px;
+  color: #080040;
+  letter-spacing: 0px;
+}
+
+.title-md {
+  font-size: 30px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: medium;
+  color: #080040;
+}
+
+.title-sm {
+  font-size: 23px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: normal;
+  color: #080040;
+}
+
+.paragraph-font {
+  font-size: 16px;
+  font-family: "Nunito";
+  /* font-style: normal; */
+  line-height: 10px;
+  font-weight: lighter;
+  text-align: center;
+  color: #6a6a6a;
+}
+
+.currency {
+  color: #fbaf02;
+  font-size: 55px;
+  font-weight: bold;
+}

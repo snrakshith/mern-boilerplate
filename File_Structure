@@ -10,16 +10,22 @@ client/
         - actions/
         - reduces/
         - index.js
-    - tests/
+    - hoc/
+    - pages/
+    - utils/
+    - shared/
+    - __tests__/
+    
 
 server/  
     - config/
     - middleware/
     - services/
     - routes/
+    - utils/
     - models/
     - tests/
-    - index.js
+    - server.js
 
 .gitignore
 README.md

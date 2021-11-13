@@ -1,0 +1,1 @@
+Contains all HTML or XML icons ( ex: svg or fontawesome ) as Components.

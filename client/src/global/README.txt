@@ -1,0 +1,1 @@
+Contains any varibles and styles that are global to the application.(ex: Routes, Permissions)
